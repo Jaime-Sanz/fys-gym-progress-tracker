@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.local
+
+# mac files
+.DS_Store
+
+# logs
+*.log
+
+# prisma generated client (optional depending on setup)
+src/generated/
+prisma/dev.db
